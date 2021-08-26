@@ -14,7 +14,10 @@ public class HelloWorld {
 		System.out.println("충돌 해결~~ㅎㅎㅎ");
 		
 		System.out.println("github 연동 시작");
+
 		System.out.println("로컬에서 추가");
+		System.out.println("remote 에서 수정");
+
 		
 
 	}

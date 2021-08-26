@@ -14,6 +14,7 @@ public class HelloWorld {
 		System.out.println("충돌 해결~~ㅎㅎㅎ");
 		
 		System.out.println("github 연동 시작");
+		system.out.plintn("remote 에서 수정");
 		
 
 	}
